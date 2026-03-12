@@ -1,0 +1,5 @@
+{
+  "name": "Audio Cutter Welcome Page",
+  "description": "A welcome page for the Audio Cutter browser extension, showing users how to pin and use it.",
+  "requestFramePermissions": []
+}
