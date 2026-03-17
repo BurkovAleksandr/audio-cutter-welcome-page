@@ -39,7 +39,7 @@ export default function App() {
         {/* Step 2 */}
         <div className="w-full flex flex-col items-center">
           <p className="text-[17px] text-slate-500 font-medium mb-8 text-center">
-            2. Simply click on the extension icon to open the cutter. 
+            2. Simply click on the extension icon to open the cutter.  
           </p>
           <img
             class="shadow-2xl rounded-xl"
